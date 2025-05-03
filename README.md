@@ -1,8 +1,5 @@
-<h1 align="center">สวัสดีค่ะ! 👋</h1>
-<h2 align="center">I'm Tanchanok Charungpattananon 💖</h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="150" alt="Hello" />
-</p>
+<h1 align="center">Hello! 👋 I'm Tanchanok Charungpattananon 💖</h1>
+<!-- <h2 align="center">I'm Tanchanok Charungpattananon 💖</h2> -->
 
 ---
 
@@ -48,16 +45,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" alt="Raspberry Pi" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" alt="TensorFlow" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
-</p>
-
----
-
-### 💫 Let’s Connect!
-
-<p align="center">
-  <a href="https://github.com/MayJarung" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
 </p>
 
 ---
