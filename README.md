@@ -1,17 +1,19 @@
-<h1 align="center">Hello! 👋 I'm Tanchanok Charungpattananon 💖</h1>
-<!-- <h2 align="center">I'm Tanchanok Charungpattananon 💖</h2> -->
+# ✨ Hello! I'm Tanchanok Charungpattananon 💖
 
 ---
 
-🌸 I’m a **Frontend Enthusiast** based in **Bangkok, Thailand** 🇹🇭  
-💌 You can reach me at: [mayjarung122545@gmail.com](mailto:mayjarung122545@gmail.com)  
-📚 Currently learning: **Angular** & **React** 💻✨  
+## 🌸 About Me
+
+- 🏡 I'm based in **Bangkok, Thailand**
+- 📧 Reach me at: [mayjarung122545@gmail.com](mailto:mayjarung122545@gmail.com)
+- 🎯 Currently learning: **Angular** & **React**
+- 💡 Passionate about **Frontend Development**  and turning ideas into beautiful web interfaces
 
 ---
 
 ### 🐱 My GitHub Stats
 
-<p align="center">
+<p>
   <a href="http://www.github.com/MayJarung">
     <img src="https://github-readme-stats.vercel.app/api?username=MayJarung&show_icons=true&count_private=true&title_color=f472b6&text_color=ffffff&icon_color=fb7185&bg_color=1f2937&hide_border=true" alt="MayJarung's GitHub stats" />
   </a>
@@ -21,7 +23,7 @@
 
 ### 🎨 My Skills
 
-<p align="center">
+<p>
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
