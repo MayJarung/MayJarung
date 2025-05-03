@@ -7,7 +7,7 @@
 - 🏡 I'm based in **Bangkok, Thailand**
 - 📧 Reach me at: [mayjarung122545@gmail.com](mailto:mayjarung122545@gmail.com)
 - 🎯 Currently learning: **Angular** & **React**
-- 💡 Passionate about **Frontend Development**  and turning ideas into beautiful web interfaces
+- 💡 Passionate about **Frontend Development**
 
 ---
 
@@ -34,6 +34,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" alt="TailwindCSS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
   
   <!-- Backend & Other -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
@@ -46,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" alt="Arduino" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" alt="Raspberry Pi" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" alt="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
+  
 </p>
 
 ---
