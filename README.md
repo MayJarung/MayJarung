@@ -5,7 +5,7 @@
 ## 🌸 About Me
 
 - 🏡 I'm based in **Bangkok, Thailand**
-- 📧 Reach me at: [mayjarung122545@gmail.com](mailto:mayjarung122545@gmail.com)
+- 📧 Reach me at: [tanchanok.charung@gmail.com](mailto:mayjarung122545@gmail.com)
 - 🎯 Currently learning: **Angular** & **React**
 - 💡 Passionate about **Frontend Development**
 
