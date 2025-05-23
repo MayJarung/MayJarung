@@ -10,7 +10,6 @@
   - Familiar with **Angular**, **HTML**, **CSS**, and **API integration**
 - 🧩 Contributed to an enterprise **HRM system (EMPEO)** during internship
 - 🚀 Co-developed **KMITL StudyMate**, a study planning platform for students
-- 🌱 Passionate about learning, improving, and growing with a supportive team
 
 ---
 
