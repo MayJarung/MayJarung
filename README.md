@@ -4,7 +4,7 @@
 
 ## 🌸 About Me
 
-I am a recent Computer Engineering graduate from KMITL with hands-on experience in front-end development through a senior project and a 2-month internship. I am familiar with Angular, HTML, CSS, and API integration. During my internship at Gofive, I contributed to an enterprise HRM system (EMPEO), and also co-developed KMITL StudyMate, a course planning platform. I am ready to work, learn, and contribute my best to the team while growing alongside the company.
+   I am a recent Computer Engineering graduate from KMITL with hands-on experience in front-end development through a senior project and a 2-month internship. I am familiar with Angular, HTML, CSS, and API integration. During my internship at Gofive, I contributed to an enterprise HRM system (EMPEO), and also co-developed KMITL StudyMate, a course planning platform. I am ready to work, learn, and contribute my best to the team while growing alongside the company.
 
 ---
 
